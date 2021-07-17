@@ -63,7 +63,7 @@ class Chapter3 extends Chapter
     public function length($valueOne)
     {
         // CODE HERE
-
+        $valueTwo = strlen($valueOne);
         // DO NOT EDIT BELOW
         return $valueTwo;
     }
